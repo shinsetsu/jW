@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9Fs8PZIk4QAFsqIhvIJgMiNCXn9tisRe5Aki4w+ZgorNDfliUbZ/OqL0Jg9rp8jUket45aVHiUxBQRHB3pcyA==",
+  "success": true,
+  "projectFilePath": "C:\\ZEJ_Repositiories.Projects\\Repo.jW\\jW\\jW\\jW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.0\\microsoft.netcore.app.runtime.win-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Shin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.0.nupkg.sha512",
+    "C:\\Users\\Shin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.0\\microsoft.aspnetcore.app.runtime.win-x64.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
